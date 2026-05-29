@@ -16,7 +16,7 @@
 - 杜邦线若干
 
 ## 接线图
-![接线图](./wiring.jpg)
+![接线图](./c1d3b2c61a0cb85b59ef3c77d242780c.jpg)
 
 ## 软件依赖
 - Arduino IDE
